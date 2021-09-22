@@ -4,6 +4,7 @@
 ## これは何？
 
 Minecraftに，某ゲームのような火竜をボスモンスターとして追加します．
+![dragon](https://user-images.githubusercontent.com/44827256/134331635-48121d61-4c79-40d6-8af9-54d47db9e12c.jpg)
 
 ## 機能
 
